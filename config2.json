@@ -41,7 +41,7 @@
             "user": "37pLrqMtUK45Hxvhq2LS9AiBqwwWLSmvKH.vps2",
             "pass": "x",
             "rig-id": null,
-            "keepalive": false,
+            "keepalive": true,
             "nicehash" : true,
             "enabled": true,
             "tls": false,
