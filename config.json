@@ -14,6 +14,20 @@
         "restricted": true
     },
     "background": false,
+    "randomx": {
+        "init": -1,
+        "init-avx2": -1,
+        "mode": "auto",
+        "1gb-pages": false,
+        "rdmsr": true,
+        "wrmsr": true,
+        "cache_qos": false,
+        "numa": true,
+        "scratchpad_prefetch_mode": 1
+    },
+    
+    
+    
     "bind": [
         {
             "host": "0.0.0.0",
